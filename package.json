@@ -18,5 +18,9 @@
   "homepage": "https://github.com/mariolazzari/node-essential#readme",
   "devDependencies": {
     "nodemon": "^1.18.3"
+  },
+  "dependencies": {
+    "async": "^2.6.1",
+    "underscore": "^1.9.1"
   }
 }
