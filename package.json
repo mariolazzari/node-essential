@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/mariolazzari/node-essential#readme",
   "devDependencies": {
-    "nodemon": "^1.18.3"
+    "nodemon": "^1.18.4"
   },
   "dependencies": {
     "async": "^2.6.1",
