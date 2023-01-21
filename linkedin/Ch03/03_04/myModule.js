@@ -11,5 +11,5 @@ module.exports = {
   count,
   inc,
   dec,
-  getCount
+  getCount,
 };
