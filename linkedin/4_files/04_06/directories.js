@@ -11,7 +11,7 @@ const fs = require("fs");
 //   }
 // });
 
-fs.readdirSync("./accounts").forEach((file) => {
+fs.readdirSync("./accounts").forEach(file => {
   fs.renameSync(`./accounts/${file}`, `./library/${file}`);
 });
 
